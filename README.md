@@ -129,9 +129,6 @@ All nine visualizations were combined into a single interactive Tableau dashboar
 | Trips by Hour & Day | Trip Duration Distribution | Dropoff Borough Flow |
 
 ![Full Dashboard](screenshots/dashboard.png)
-
-**Live dashboard:** *[add your Tableau Public link here]*
-
 ---
 
 ## 6. Key Findings
